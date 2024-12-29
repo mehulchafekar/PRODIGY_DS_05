@@ -2,6 +2,7 @@
 
 ### **Project Title**
 **"Traffic Accident Analysis: Identifying Patterns and Insights to Enhance Road Safety"**
+
 ![Task 5](https://github.com/user-attachments/assets/2557c8d5-1af8-4eee-ac91-fa0d55913a7b)
 
 ---
